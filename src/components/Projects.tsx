@@ -51,7 +51,7 @@ const projects = [
     title: "Portfolio Website",
     description:
       "Personal portfolio built with React and TailwindCSS to showcase projects, and skills — made with vibe coding.",
-    link: "https://github.com/kerolesnabiel/portfolio",
+    link: "https://github.com/shreif92/Portfolio-Website",
     image: "/projects/portfolio.webp",
     tech: ["React", "TypeScript", "TailwindCSS", "Framer Motion", "Vite"],
   },

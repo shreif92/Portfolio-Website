@@ -1,4 +1,4 @@
-# Keroles Nabil | Software Engineer Portfolio
+# Shrefi Abdullah | Software Engineer Portfolio
 
 This is my personal portfolio website, showcasing my skills, projects, and background as a backend-focused software engineer with experience in .NET and Node.js.
 
@@ -23,7 +23,7 @@ This is my personal portfolio website, showcasing my skills, projects, and backg
 
 ## 📬 Contact
 
-- 📧 Email: kerolesnabiel@gmail.com
+- 📧 Email: shreifabdallah92@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shreif-abdullah-sh4503/)
 
 

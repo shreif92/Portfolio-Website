@@ -1,6 +1,6 @@
 # Shrefi Abdullah | Software Engineer Portfolio
 
-This is my personal portfolio website, showcasing my skills, projects, and background as a backend-focused software engineer with experience in .NET and Node.js.
+This is my personal portfolio website, showcasing my skills, projects, and background as a backend-focused software engineer with experience in Django, Fastapi and MERN Stack.
 
 🔗 **Live Site**: [Shreif.vercel.app](https://keroles.vercel.app)
 

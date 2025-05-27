@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, showcasing my skills, projects, and background as a backend-focused software engineer with experience in Django, Fastapi and MERN Stack.
 
-🔗 **Live Site**: [Shreif.vercel.app](https://keroles.vercel.app)
+🔗 **Live Site**: [Shreif.vercel.app](https://shreifabdullahportfolio.vercel.app/)
 
 ## 🚀 Tech Stack
 

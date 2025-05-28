@@ -55,6 +55,14 @@ const projects = [
     image: "/projects/portfolio.webp",
     tech: ["React", "TypeScript", "TailwindCSS", "Framer Motion", "Vite"],
   },
+  {
+    title: "MERN Stack Reservation App",
+    description:
+      "A RESTful API built with Node.js, Express, and MongoDB for a hotel reservation app, managing hotels, rooms, and bookings.",
+    link: "https://github.com/shreif92/Reservation-App",
+    image: "/projects/HMS-Blog-hero.jpg",
+    tech: ["MERN", "Mongoose", "JWT", "bcryptjs ", "Vite"],
+  },
 ];
 
 const Projects = () => {
